@@ -33,3 +33,12 @@
   <a href="https://hi-bitcamp.slack.com/team/U06K2EVTAQH" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" target="_blank"></a>
  </br>
 </br>
+
+
+## project
+<div>
+  법률 지원 웹 플랫폼
+  <a href="https://github.com/iuhapark/lawmate" target="_blank">Lawmate</a>
+</a>
+ </br>
+</br>
