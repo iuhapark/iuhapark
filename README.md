@@ -15,6 +15,9 @@
 <div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-257bd6?style=flat-square&logo=Docker&logoColor=white">
+  
 </div>
 
 ## tools
@@ -22,8 +25,6 @@
   <img src="https://img.shields.io/badge/Intellij%20Idea-000000?style=flat-square&logo=intellij-idea">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-257bd6?style=flat-square&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 </div>
 
 ## contact
