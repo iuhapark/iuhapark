@@ -40,7 +40,7 @@
   
 🔗<a href="https://github.com/iuhapark/lawmate" target="_blank">Lawmate</a>
 > **법률 지원 웹 플랫폼** <br>
-> `stacks : Spring Cloud Netfilx Eureka, Spring Cloud Config, Spring Cloud Gateway, MySQL, Redis, Linux, Docker`
+> `stacks : Spring Boot, Spring Data JPA, MySQL, Redis, Linux, Docker`
   
 </a>
  </br>
