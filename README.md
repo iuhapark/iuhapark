@@ -21,7 +21,7 @@
 
 </div>
 
-## databases
+## database
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white">
@@ -38,4 +38,4 @@
   
 🔗<a href="https://github.com/iuhapark/lawmate" target="_blank">Lawmate</a>
 > **법률 지원 웹 플랫폼** <br>
-> `stacks : Spring Boot, Spring Data JPA, MySQL, Redis, Linux, Docker`
+> `stacks : Spring Boot, Spring Data JPA, Spring Cloud, Docker, Jenkins, MySQL, Redis, JSON Web Token`
