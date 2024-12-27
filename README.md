@@ -11,7 +11,7 @@
 </div>
 
 
-## skills
+## stacks
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -24,13 +24,13 @@
   <br />
   <img src="https://img.shields.io/badge/Docker-257bd6?style=flat-square&logo=Docker&logoColor=white">
   <br />
-  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"> 
 </div>
 
 ## database
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=Redis&logoColor=white">
 </div>
 
 ## contact
