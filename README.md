@@ -41,7 +41,7 @@
 ## authentication
 <div>
   <img src="https://img.shields.io/badge/OAuth%202.0-000000?style=flat-square&logo=aircall&logoColor=white">
-  <img src="https://img.shields.io/badge/JSON%20Web%20Token-c447f6?style=flat-square&logo=jsonwebtokens&logoColor=white">
+  <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-c447f6?style=flat-square&logo=jsonwebtokens&logoColor=white">
 </div>
 
 ## contact
