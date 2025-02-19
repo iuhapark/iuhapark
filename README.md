@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=Redis&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/MyBatis-c2291b?style=flat-square">
+  <img src="https://img.shields.io/badge/MyBatis-c2291b?style=flat-square&logo=doubanread&logoColor=white">
 </div>
 
 ## authentication
