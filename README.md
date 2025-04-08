@@ -46,6 +46,7 @@
 ## contact
 <div>
   <a href="https://github.com/iuhapark" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://iuhapark.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-9E95B7?style=flat-square&logo=refinedgithub&logoColor=white" target="_blank"></a>
   <a href = "mailto: juhabahk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 
