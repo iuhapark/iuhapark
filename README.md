@@ -50,14 +50,20 @@
   <a href = "mailto: juhabahk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 
-## project
+## projects
 <div>
 
-🔗<a href="https://github.com/iuhapark/lawmate" target="_blank">Lawmate</a>
-> **법률 지원 웹 플랫폼** <br>
-> `stacks : Spring Boot 3, Spring Data JPA, Spring Cloud, Docker, Jenkins, MySQL, Redis, JSON Web Token`
+🔗<a href="https://github.com/iuhapark/iuha" target="_blank">WebSocket 실시간 채팅 플랫폼</a>
+ <br/>
+ `Spring Boot 3, Next.js 15, React 19`
+ <br/>
+ `Spring Data JPA, MySQL, Redis, Querydsl, JWT, Session, Docker`
 
-🔗<a href="https://github.com/iuhapark/TX" target="_blank">Transaction-based Payment System</a>
-> **트랜잭션 결제 시스템** <br>
-> `stacks : Spring Boot 3, Spring Data JPA, Gradle, MySQL, Querydsl, JSON Web Token`
+🔗<a href="https://github.com/iuhapark/lawmate" target="_blank">Lawmate 법률 지원 웹 플랫폼</a>
+ <br/>
+ `Spring Boot 3, Spring Cloud, Spring Data JPA, MySQL, Redis, JWT, Docker, Jenkins`
+
+🔗<a href="https://github.com/iuhapark/TX" target="_blank">Transaction-based Payment System 트랜잭션 결제 시스템</a>
+ <br/>
+ `Spring Boot 3, React 18, Spring Data JPA, Gradle, MySQL, Querydsl, JWT`
 </div>
