@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=React&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HeroUI-000000?style=flat-square&logo=tailwindcss&logoColor=white"/>
   <br />
   <img src="https://img.shields.io/badge/Docker-257bd6?style=flat-square&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
