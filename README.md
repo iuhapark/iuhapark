@@ -39,10 +39,12 @@
   <img src="https://img.shields.io/badge/MyBatis-c2291b?style=flat-square&logo=doubanread&logoColor=white">
 </div>
 
-## authentication
+## authentication, protocol
 <div>
   <img src="https://img.shields.io/badge/OAuth%202.0-000000?style=flat-square&logo=aircall&logoColor=white">
   <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-c447f6?style=flat-square&logo=jsonwebtokens&logoColor=white">
+  <img src="https://img.shields.io/badge/SMTP-005FF9?style=flat-square&logo=maildotru&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SseEmitter-06D6A9?style=flat-square&logo=steemit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web Socket-C93CD7?style=flat-square&logo=socket&logoColor=white"/>
 </div>
 
