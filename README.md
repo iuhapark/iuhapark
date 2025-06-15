@@ -60,17 +60,17 @@
 ## projects
 <div>
 
-🔗<a href="https://github.com/iuhapark/iuha" target="_blank">WebSocket 실시간 채팅 플랫폼</a>
+1️⃣ <a href="https://github.com/iuhapark/iuha" target="_blank">WebSocket 실시간 채팅 플랫폼</a>
  <br/>
  `Spring Boot 3, Next.js 15, React 19`
  <br/>
  `Spring Data JPA, MySQL, Redis, Querydsl, JWT, Session, Docker`
 
-🔗<a href="https://github.com/iuhapark/lawmate" target="_blank">Lawmate 법률 지원 웹 플랫폼</a>
+2️⃣ <a href="https://github.com/iuhapark/lawmate" target="_blank">Lawmate 법률 지원 웹 플랫폼</a>
  <br/>
  `Spring Boot 3, Spring Cloud, Spring Data JPA, MySQL, Redis, JWT, Docker, Jenkins`
 
-🔗<a href="https://github.com/iuhapark/TX" target="_blank">Transaction-based Payment System 트랜잭션 결제 시스템</a>
+3️⃣ <a href="https://github.com/iuhapark/TX" target="_blank">Transaction-based Payment System 트랜잭션 결제 시스템</a>
  <br/>
  `Spring Boot 3, React 18, Spring Data JPA, Gradle, MySQL, Querydsl, JWT`
 </div>
