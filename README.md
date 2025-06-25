@@ -66,7 +66,7 @@
  <br/>
  `Spring Data JPA, MySQL, Redis, Querydsl, JWT, Session, Docker`
  <br/>
-  <a href="https://iuhapark.com" target="_blank"> → 🌐 웹페이지</a>
+  <a href="https://www.iuhapark.com" target="_blank"> → 🌐 웹페이지</a>
 
 2️⃣ <a href="https://github.com/iuhapark/lawmate" target="_blank">Lawmate 법률 지원 웹 플랫폼</a>
  <br/>
