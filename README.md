@@ -1,8 +1,8 @@
 <div align="center">
-  <picture>
+  <!-- <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=iuhapark&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" media="(prefers-color-scheme: dark)" height="150">
     <img src="https://github-readme-stats.vercel.app/api?username=iuhapark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=false&order=1" height="150" alt="stats graph">
-  </picture>
+  </picture> -->
 
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=iuhapark&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" media="(prefers-color-scheme: dark)">
@@ -66,7 +66,7 @@
  <br/>
  `Spring Data JPA, MySQL, Redis, Querydsl, JWT, Session, Docker`
  <br/>
-  <a href="https://www.iuhapark.com" target="_blank"> → 🌐 웹페이지</a>
+  <a href="https://www.iuhapark.com" target="_blank">iuhapark.com</a>
 
 2️⃣ <a href="https://github.com/iuhapark/lawmate" target="_blank">Lawmate 법률 지원 웹 플랫폼</a>
  <br/>
